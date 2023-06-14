@@ -33,7 +33,19 @@ Cursos Fodas
 <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 |--|--|--|--|--|
 
+<br>
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-groehs&layout=compact&langs_count=8&theme=tokyonight" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-groehs&show_icons=true&theme=tokyonight&count_private=true" />
+  <br><br>
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-groehs&theme=tokyonight" />
+<!--   <br><br>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=csfelix&theme=tokyo-night" /> -->
+</div>
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-groehs&hide_progress=true)
 
