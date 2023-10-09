@@ -1,5 +1,10 @@
 ## Olá, Eu Sou o Gabriel 👋
 ### 👨‍🔬 Minha Formação
+
+## Meu Site Currículo
+<a href="https://gabriel-groehs.github.io/">Gabriel Curriculum<Qa>
+
+
 Formado::
 - Graduação Gestão Financeira Uninter 2017🎓 ✔
 - Graduação Ciências de Dados Unicsul 2020🎓 ✔
