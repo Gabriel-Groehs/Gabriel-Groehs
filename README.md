@@ -1,8 +1,8 @@
 ## Olá, Eu Sou o Gabriel 👋
 ### 👨‍🔬 Minha Formação
 
-#### Meu Site Currículo
-<a href="https://gabriel-groehs.github.io/" target="_blank">Gabriel Curriculum</a>
+####  📊
+<a href="https://gabriel-groehs.github.io/" target="_blank">Meu Site Gabriel Curriculum</a>
 
 
 Formado::
@@ -62,9 +62,9 @@ Cursos Fodas
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-groehs&hide=contribs,prs)-->
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-groehs&show_icons=true&theme=radical)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-groehs&show_icons=true&theme=radical)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel-groehs)]<!--(https://github.com/gabriel-groehs/github-readme-stats)-->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel-groehs)]<!--(https://github.com/gabriel-groehs/github-readme-stats)-->-->
 
 <picture>
 <source
