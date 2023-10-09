@@ -1,8 +1,8 @@
 ## Olá, Eu Sou o Gabriel 👋
 ### 👨‍🔬 Minha Formação
 
-## Meu Site Currículo
-<a href="https://gabriel-groehs.github.io/">Gabriel Curriculum<Qa>
+#### Meu Site Currículo
+<a href="https://gabriel-groehs.github.io/" target="_blank">Gabriel Curriculum</a>
 
 
 Formado::
