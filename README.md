@@ -16,16 +16,17 @@ Formado::
 - MBA Gestão Contabilidade Finanças Empresariais UCAM 2020🎓✔
 - MBA Gestão Bancária Financeira ESPG 2020🎓✔
 - MBA Economia Financeira🎓✔
+- MBA Machine Learning Inteligência Artificial 2023🎓✔
 
 Cursando::
-- Graduação Matemática Estácio 2022⌛ 50%
+- Graduação Matemática Estácio 2025⌛ 50%
 - Graduação Estatística Anhembi 2024⌛ 60%
-- Grad Engenharia de Software UNINTER 2024⌛ 70%
-- Graduação Engenharia da Computação 2024⌛ 60%
-- MBA Engenharia Econômica
-- MBA Machine Learning Inteligência Artificial
-- Pós em Estatística Aplicada
-- MBA Data Science e Analytics USP
+- Graduação Ciência da Computação Anhanguera 2026⌛ 60%
+- Grad Engenharia de Software UNINTER 2026⌛ 70%
+- Graduação Engenharia da Computação 2026⌛ 60%
+- MBA Engenharia Econômica 2023⌛ 80%
+- Pós em Estatística Aplicada 2023⌛ 60%
+- MBA Data Science e Analytics USP 2024⌛ 40%
 
 Cursos Fodas
 - Bootcamp Ciência de Dados 148 horas IGTI🎓
@@ -33,7 +34,7 @@ Cursos Fodas
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|--|--|
 
 **Libraries and Frameworks**
@@ -57,13 +58,13 @@ Cursos Fodas
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-groehs&hide_progress=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-groehs&hide_progress=true)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-groehs&hide=contribs,prs)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-groehs&hide=contribs,prs)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-groehs&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-groehs&show_icons=true&theme=radical)-->
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/gabriel-groehs/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel-groehs)]<!--(https://github.com/gabriel-groehs/github-readme-stats)-->
 
 <picture>
 <source
