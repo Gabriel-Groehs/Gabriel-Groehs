@@ -1,6 +1,6 @@
 ## Olá, Eu Sou o Gabriel 👋
-####  📊
-<a href="https://gabriel-groehs.github.io/" target="_blank">Meu Site Gabriel Curriculum</a>
+
+####  <a href="https://gabriel-groehs.github.io/" target="_blank">📊Meu Site Gabriel Curriculum</a>
 
 ### 👨‍🔬 Minha Formação
 
