@@ -1,11 +1,10 @@
 ## Olá, Eu Sou o Gabriel 👋
-### 👨‍🔬 Minha Formação
-
 ####  📊
 <a href="https://gabriel-groehs.github.io/" target="_blank">Meu Site Gabriel Curriculum</a>
 
+### 👨‍🔬 Minha Formação
 
-Formado::
+#### Formado::
 - Graduação Gestão Financeira Uninter 2017🎓 ✔
 - Graduação Ciências de Dados Unicsul 2020🎓 ✔
 - Graduação Ciências Contábeis UnifCV 2022 ✔
@@ -18,7 +17,7 @@ Formado::
 - MBA Economia Financeira🎓✔
 - MBA Machine Learning Inteligência Artificial 2023🎓✔
 
-Cursando::
+#### Cursando::
 - Graduação Matemática Estácio 2025⌛ 50%
 - Graduação Estatística Anhembi 2024⌛ 60%
 - Graduação Ciência da Computação Anhanguera 2026⌛ 60%
