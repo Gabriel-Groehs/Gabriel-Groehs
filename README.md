@@ -16,6 +16,7 @@
 - MBA Gestão Bancária Financeira ESPG 2020🎓✔
 - MBA Economia Financeira🎓✔
 - MBA Machine Learning Inteligência Artificial 2023🎓✔
+- MBA Engenharia Econômica 2023🎓✔
 
 #### Cursando::
 - Graduação Matemática Estácio 2025⌛ 50%
@@ -23,7 +24,6 @@
 - Graduação Ciência da Computação Anhanguera 2026⌛ 60%
 - Grad Engenharia de Software UNINTER 2026⌛ 70%
 - Graduação Engenharia da Computação 2026⌛ 60%
-- MBA Engenharia Econômica 2023⌛ 80%
 - Pós em Estatística Aplicada 2023⌛ 60%
 - MBA Data Science e Analytics USP 2024⌛ 40%
 
