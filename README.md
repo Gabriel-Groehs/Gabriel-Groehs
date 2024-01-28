@@ -19,15 +19,19 @@
 - MBA Engenharia Econômica 2023🎓✔
 
 #### Cursando::
-- Graduação Matemática Estácio 2025⌛ 50%
-- Graduação Estatística Anhembi 2024⌛ 60%
+- Graduação Estatística Anhembi 2024⌛ 90%
 - Graduação Ciência da Computação Anhanguera 2026⌛ 60%
 - Grad Engenharia de Software UNINTER 2026⌛ 70%
+- Pós em Estatística Aplicada 2023⌛ 90%
+
+#### Trancado::
+- Graduação Matemática Estácio 2025⌛ 50%
 - Graduação Engenharia da Computação 2026⌛ 60%
-- Pós em Estatística Aplicada 2023⌛ 60%
 - MBA Data Science e Analytics USP 2024⌛ 40%
 
 Cursos Fodas
+- Yale Mercados Financeiros 7 Semanas
+- Engenharia de Dados Stack
 - Bootcamp Ciência de Dados 148 horas IGTI🎓
 - Bootcamp Engenharia Econômica USP🎓
 
